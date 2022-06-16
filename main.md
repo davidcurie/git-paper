@@ -10,4 +10,3 @@ really conclude anything; it really just adds more text to the file.
 
 Goodbye leonard. This is personal.
 
-Sally sells seashells by the seashore. 
