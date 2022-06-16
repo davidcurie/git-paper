@@ -8,6 +8,6 @@ This is a second paragraph. For now, this is the last paragraph I am adding to
 the story, so this can be considered a conclusion paragraph. This doesn't
 really conclude anything; it really just adds more text to the file. 
 
-leonard
+Goodbye leonard. This is personal.
 
 Sally sells seashells by the seashore. Surely she will sell some seashells soon.
